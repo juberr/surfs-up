@@ -35,5 +35,14 @@ Temperatures in June and December  on the Island of Oahu both appear to offer a 
 
 An important query to consider on the health of the Surf and Ice cream shop is precipitation levels in June and December. While the temperatures could be appropriate for surfing and ice cream in June and December, rainy conditions will keep people inside and away from the Surf and Ice cream shop.
 
+INSERT PICTURES HERE
+
+Following the trend of December being a worse month for business, December has the higher average and maximum precipitation levels in Oahu when compared to June. This means one can expect a lot more rainfall in December on Oahu, which disincentivizes individuals from wanting to go surfing or eat ice cream.
+
+
 Another query to consider would be a "by station" view of the June and December data. Knowing which weather stations are more aversely affected by the changes in weather, can inform the business where they should specifically set up shop on Oahu to optimize the chances of success.
+
+INSERT PICTURES HERE
+
+It looks like our data is not specific enough for this query as all stations have the same average in June and December. Should the business want to explore this question further, they should look into other data sources to supplement the current database.
 
