@@ -38,7 +38,7 @@ An important query to consider on the health of the Surf and Ice cream shop is p
 ![image](https://github.com/juberr/surfs-up/blob/main/Resources/june%20prcp.png?raw=true) 
 ![image](https://github.com/juberr/surfs-up/blob/main/Resources/dec%20prcp.png?raw=true)
 
-Following the trend of December being a worse month for business, December has the higher average and maximum precipitation levels in Oahu when compared to June. This means one can expect a lot more rainfall in December on Oahu, which disincentivizes individuals from wanting to go surfing or eat ice cream. The disparity in precipitation could have an averse effect on business in December.
+Following the trend of December being a worse month for business, December has the higher average and maximum precipitation levels in Oahu when compared to June. This means one can expect a lot more rainfall in December on Oahu, which disincentivizes individuals from wanting to go surfing or eat ice cream. The disparity in precipitation could have an averse affect on business in December.
 
 
 Another query to consider would be a "by station" view of the June and December data. Knowing which weather stations are more aversely affected by the changes in weather, can inform the business where they should specifically set up shop on Oahu to optimize the chances of success.
